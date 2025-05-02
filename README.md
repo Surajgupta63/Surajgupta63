@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://x.com/SurajGu35424702" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **surajgupta689800@gmail.com**
-- 📫 Portfolio **[https://surajgupta.github.io/](https://surajgupta63.github.io/portfolio/)**
+- 📫 Portfolio **[https://surajgupta.github.io/portfolio/](https://surajgupta63.github.io/portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
