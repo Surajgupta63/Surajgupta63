@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **surajgupta689800@gmail.com**
 - 📫 Portfolio **[https://surajgupta.github.io/portfolio/](https://surajgupta63.github.io/portfolio/)**
-- 📫 Website **[https://surajgupta.github.io/portfolio/](https://gkartz.in/)**
+- 📫 Website **[gkartz.in](https://gkartz.in/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
