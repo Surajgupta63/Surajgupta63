@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
 <h3 align="left">Detail-oriented B.Tech graduate skilled in managing multiple projects with precision. Exhibits a diverse skill set developed through successful completion of various projects. Poised to apply interpersonal skills, excellent time management, and problem-solving abilities in a dynamic work environment. Seeking an position with opportunities for growth.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Surajgupta63&label=Profile%20views&color=0e75b6&style=flat" alt="Surajgupta63" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Surajgupta63&label=Profile%20views&color=0e75b6&style=flat" alt="Surajgupta63" /> </p> -->
 
-<p align="left"> <a href="https://x.com/SurajGu35424702" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://x.com/SurajGu35424702" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 📫 How to reach me **surajgupta689800@gmail.com**
 - 📫 Portfolio **[https://surajgupta.github.io/portfolio/](https://surajgupta63.github.io/portfolio/)**
-- 📫 Website **[gkartz.in](https://gkartz.in/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +20,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="40" height="40"/> </a> <a href="https://huggingface.co/surajsde" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="higgingface" width="40" height="40"/> </a> <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/en/stable/quickstart/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/main/openjs_foundation/openjs_foundation-logo-horizontal-color.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajgupta63&show_icons=true&locale=en" alt="Surajgupta63" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surajgupta63&show_icons=true&locale=en" alt="Surajgupta63" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajgupta63&" alt="Surajgupta63" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajgupta63&" alt="Surajgupta63" /></p> -->
